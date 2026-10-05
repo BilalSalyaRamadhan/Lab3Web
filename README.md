@@ -20,6 +20,8 @@ Membuat file CSS terpisah untuk mengatur tata letak navigasi, warna latar belaka
 Menggunakan ID Selector (#intro, #intro h1) dan Class Selector (.button) pada file style_eksternal.css untuk memberikan gaya spesifik pada elemen kontainer utama dan tombol tautan.
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/27fd5169-ff9f-4403-8e18-d590c872a021" />
 
+___
+
 Pertanyaan dan Tugas
 1.	Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS.
 Eksperimen dilakukan dengan memindahkan letak teks Hello World agar berada di tengah halaman dan menambahkan efek hover pada tag <a> yang memiliki class .button.
